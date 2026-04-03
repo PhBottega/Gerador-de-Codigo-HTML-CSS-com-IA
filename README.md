@@ -26,6 +26,7 @@ O usuário digita o que deseja criar
 O front-end envia a requisição para o backend
 O backend chama a API de IA
 O resultado é retornado e exibido na tela
+
 🚀 Como rodar o projeto
 1. Clone o repositório
 git clone https://github.com/PhBottega/Gerador-de-Codigo-HTML-CSS-com-IA
@@ -36,6 +37,7 @@ API_KEY=sua_chave_aqui
 4. Rode o servidor
 node server.js
 5. Abra o front-end normalmente
+   
 📌 Observações
 
 Este projeto foi desenvolvido para fins de estudo e aprendizado.
